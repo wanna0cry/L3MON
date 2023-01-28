@@ -92,7 +92,12 @@ A cloud based remote android managment suite, powered by NodeJS
     5. run `pm2 restart all`
 
 7. in your browser navigate to `http://127.0.0.1:22533`
-    
+
+if this error occurs
+https://javahelps.com/install-oracle-jdk-8-on-linux
+
+ ERROR | Build Failed - Wrong Java Version Installed. Detected openjdk version "17.0.5" 20. Please use Java 1.8.0 
+
 It's recommended to run L3MON behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
 
 ## Notes
